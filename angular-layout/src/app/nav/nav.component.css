@@ -1,0 +1,23 @@
+ ul{
+    display:flex;
+    padding-left:15px;
+    margin-top:0px;
+    height:10px;
+    padding-bottom:25px;
+}
+ul li{
+    list-style:none;
+    padding-left:9px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover
+{
+    cursor:pointer;
+    color:orangered;
+}
+hr{
+    border:0.5px solid orangered;
+}

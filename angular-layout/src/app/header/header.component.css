@@ -1,0 +1,10 @@
+header{
+    display:flex;
+    background-color: orangered;
+    color:white;
+    margin-bottom: 0px;
+}
+h1{
+    font-weight:500px;
+    margin-left:15px;
+}
